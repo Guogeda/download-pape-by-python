@@ -1,0 +1,5 @@
+L. Vallot, "Short Acceptance Test Procedures for Ring Laser Gyros", 12th Biennial Guidance Test Symposium, pp. 1-12-22-24, 1985-Oct.
+"IEEE Std 100-1996", IEEE Standard Dictionary of Electrical and Electronics Terms.
+F. L. Walls and D. W. Allan, "Measurements of Frequency Stability", Proceedings of IEEE, vol. 74, no. l, Jan. 1986.
+"IEEE Std 1139-1988", IEEE Standard Definitions of Physical Quantities for Fundamental Frequency and Time Metrology..
+"IEEE Std 812-1984", IEEE Standard Definitions of Terms Relating to Fiber Optics..
